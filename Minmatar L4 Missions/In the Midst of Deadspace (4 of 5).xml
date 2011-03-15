@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mission>
+  <bring>Imperial Navy Gate Permit</bring>
+  <pockets>
+    <pocket id="0">
+      <actions>
+        <action name="Activate">
+          <parameter name="Target" value="Gate To The Security Perimeter" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="1">
+      <damagetype>EM</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+        <action name="Activate">
+          <parameter name="Target" value="Gate To The System Entry Point" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="2">
+      <damagetype>EM</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+        <action name="Kill">
+          <parameter name="Target" value="Imperial Stargate" />
+        </action>
+        <action name="Done" />
+      </actions>
+    </pocket>
+  </pockets>
+</mission>

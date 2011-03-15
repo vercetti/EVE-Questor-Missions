@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mission>
+  <pockets>
+    <pocket id="0">
+      <actions>
+        <action name="ClearPocket"/>
+		<action name="Kill">
+		  <parameter name="Target" value="Radio Telescope"/>
+		</action>
+		<action name="Done"/>
+      </actions>
+    </pocket>
+  </pockets>
+</mission>

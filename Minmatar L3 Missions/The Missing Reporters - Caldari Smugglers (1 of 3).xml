@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mission>
+  <pockets>
+    <pocket id="0">
+      <damagetype>Explosive</damagetype>
+      <actions>
+		<action name="ClearPocket" />
+        <action name="Loot">
+          <parameter name="Target" value="Ship Wreckage" />
+		  <parameter name="Item" value="Gallente Corpse" />
+        </action>
+		<action name="Loot" />
+		<action name="Done" />
+      </actions>
+	</pocket>
+  </pockets>
+</mission>

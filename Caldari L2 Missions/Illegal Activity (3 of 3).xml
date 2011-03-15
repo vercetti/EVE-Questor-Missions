@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mission>
+  <pockets>
+    <pocket id="0">
+      <damagetype>Kinetic</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+		<action name="Loot">
+		  <parameter name="Target" value="R.S. Officer Wreck" />
+          <parameter name="Item" value="R.S. Officer's Passcard" />
+		</action>
+		<action name="Activate">
+			<parameter name="Target" value="Acceleration Gate"/>	
+		</action>
+		<action name="Loot" />
+		<action name="Done" />
+      </actions>
+	</pocket>
+	<pocket id="1">
+	  <damagetype>Kinetic</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+		<action name="Loot" />
+		<action name="Done" />
+      </actions>
+	</pocket>
+  </pockets>
+</mission>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mission>
+  <bring>Angel Diamond Tag</bring>
+  <pockets>
+    <pocket id="0">
+      <actions>
+        <action name="Activate">
+          <parameter name="Target" value="Acceleration Gate" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="1">
+      <damagetype>Explosive</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+        <action name="Activate">
+          <parameter name="Target" value="Acceleration Gate" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="2">
+      <damagetype>Explosive</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+        <action name="Activate">
+          <parameter name="Target" value="Acceleration Gate" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="3">
+      <damagetype>Explosive</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+        <action name="Activate">
+          <parameter name="Target" value="Acceleration Gate" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="4">
+      <damagetype>Explosive</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+        <action name="Activate">
+          <parameter name="Target" value="Acceleration Gate" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="5">
+      <damagetype>Explosive</damagetype>
+      <actions>
+        <action name="ClearPocket" />
+        <action name="Done" />
+      </actions>
+    </pocket>
+  </pockets>
+</mission>

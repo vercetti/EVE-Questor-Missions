@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mission>
+  <pockets>
+  <pocket id="0">
+	  <damagetype>Kinetic</damagetype>
+      <actions>
+        <action name="Activate">
+          <parameter name="Target" value="Acceleration Gate" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="1">
+	  <damagetype>Kinetic</damagetype>
+      <actions>
+	    <action name="ClearPocket"/>
+        <action name="Activate">
+          <parameter name="Target" value="Acceleration Gate" />
+        </action>
+      </actions>
+    </pocket>
+	<pocket id="2">
+	  <damagetype>Kinetic</damagetype>
+	  <actions>
+		<action name="Kill">
+		  <parameter name="Target" value="Pithum Silencer"/>
+		</action>
+		<action name="Kill">
+		  <parameter name="Target" value="Pithum Ascriber"/>
+		</action>
+		<action name="Activate">
+          <parameter name="target" value="Acceleration Gate" />
+        </action>
+	  </actions>
+	</pocket>
+	<pocket id="3">
+	  <damagetype>Kinetic</damagetype>
+	  <actions>
+		<action name="ClearPocket"/>
+		<action name="Activate">
+          <parameter name="target" value="Acceleration Gate" />
+        </action>
+	  </actions>
+	</pocket>
+	<pocket id="4">
+	  <damagetype>Kinetic</damagetype>
+	  <actions>
+		<action name="ClearPocket"/>
+		<action name="Activate">
+          <parameter name="target" value="Acceleration Gate" />
+        </action>
+	  </actions>
+	</pocket>
+	<pocket id="5">
+	  <damagetype>Kinetic</damagetype>
+	  <actions>
+		<action name="ClearPocket"/>
+		<action name="Done"/>
+	  </actions>
+	</pocket>
+  </pockets>
+</mission>
