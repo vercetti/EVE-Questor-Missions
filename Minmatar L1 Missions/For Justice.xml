@@ -8,7 +8,7 @@
           <parameter name="target" value="Space-port" />
         </action>
 		<action name="WaitUntilTargeted">
-		  <paremeter name="Timeout" value="30">
+		  <parameter name="Timeout" value="30">
 		</action>
 		<action name="ClearPocket"/>
       </actions>
