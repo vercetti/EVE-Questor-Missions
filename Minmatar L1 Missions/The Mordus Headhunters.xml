@@ -15,7 +15,7 @@
       <actions>
 	    <action name="ClearPocket" />
 		<action name="WaitUntilTargeted">
-          <parameter name="Timeout" value="60" />
+          <parameter name="Timeout" value="90" />
         </action>
 		<action name="ClearPocket" />
         <action name="Done" />
