@@ -4,13 +4,36 @@
     <pocket id="0">
 	  <damagetype>Kinetic</damagetype>
       <actions>
-        <action name="MoveTo">
-          <parameter name="target" value="Space-port" />
-        </action>
-		<action name="WaitUntilTargeted">
-		  <parameter name="Timeout" value="30">
-		</action>
 		<action name="ClearPocket"/>
+		<action name="Activate">
+          <parameter name="target" value="Forgotten Acceleration Gate" />
+        </action>
+	  </actions>
+	</pocket>
+	<pocket id="1">
+	  <actions>
+		<action name="ClearPocket"/>
+		<action name="Activate">
+          <parameter name="target" value="Acceleration Gate" />
+        </action>
+		<action name="Done" />
+      </actions>
+    </pocket>
+	<pocket id="2">
+	  <actions>
+		<action name="ClearPocket"/>
+		<action name="Activate">
+          <parameter name="target" value="Acceleration Gate" />
+        </action>
+      </actions>
+    </pocket>
+    <pocket id="3">
+	  <actions>
+		<action name="ClearPocket"/>
+		<action name="Loot">
+          <parameter name="Item" value="Amarr Sympathizer" />
+        </action>
+		<action name="Done" />
       </actions>
     </pocket>
   </pockets>
