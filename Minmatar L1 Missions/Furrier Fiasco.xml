@@ -8,6 +8,14 @@
           <parameter name="Timeout" value="30" />
         </action>
         <action name="ClearPocket" />
+		<action name="WaitUntilTargeted">
+          <parameter name="Timeout" value="30" />
+        </action>
+        <action name="ClearPocket" />
+		<action name="WaitUntilTargeted">
+          <parameter name="Timeout" value="30" />
+        </action>
+        <action name="ClearPocket" />
         <action name="Activate">
           <parameter name="target" value="Acceleration Gate" />
         </action>
