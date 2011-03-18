@@ -4,24 +4,6 @@
     <pocket id="0">
       <damagetype>Explosive</damagetype>
       <actions>
-        <action name="Kill">
-          <parameter name="Target" value="Gistii Hijacker" />
-        </action>
-		<action name="Kill">
-          <parameter name="Target" value="Gistii Hijacker" />
-        </action>
-		<action name="Kill">
-          <parameter name="Target" value="Gistii Hijacker" />
-        </action>
-		<action name="Kill">
-          <parameter name="Target" value="Gistii Hijacker" />
-        </action>
-		<action name="Kill">
-          <parameter name="Target" value="Gistii Hijacker" />
-        </action>
-		<action name="Kill">
-          <parameter name="Target" value="Gistii Hijacker" />
-        </action>
 		<action name="Kill">
           <parameter name="Target" value="Gistii Hijacker" />
         </action>
@@ -42,7 +24,6 @@
           <parameter name="Timeout" value="15" />
         </action>
         <action name="ClearPocket" />
-
         <action name="Activate">
           <parameter name="Target" value="Gate To The Research Outpost" />
         </action>
