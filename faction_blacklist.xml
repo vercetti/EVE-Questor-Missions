@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <blacklist>
+	<mission>A Mote In The Eye</mission><!-- Gallente -->
+	<mission>A Wolf By The Ears</mission><!-- Amarr -->
+	<mission>Railgun is Worth more than Thousand Words</mission><!-- Amarr -->	
+    <mission>Against The Empire</mission><!-- Amarr -->
+    <mission>Amarr Escavators</mission><!-- Amarr -->
+    <mission>Amarrian Tyrants</mission><!-- Amarr -->
+    <mission>Ambushed Ally</mission><!-- Gallente -->
+    <mission>An End to Eavesdropping</mission><!-- Gallente -->
+    <mission>Another Slave Rescue</mission><!-- Amarr -->
+    <mission>Augumene Allergen</mission><!-- Amarr -->
+    <mission>Break The Slave Trade</mission><!-- Amarr -->
+    <mission>Breeding Facility</mission><!-- Amarr -->
+    <mission>Caldari Beacons</mission><!-- Caldari -->
+    <mission>Chain Reaction</mission><!-- Gallente -->
+    <mission>Cleansing Fire</mission><!-- Amarr -->
+    <mission>Clearing A Path</mission><!-- Gallente -->
+    <mission>Codename  Redress</mission><!-- Minmatar -->
+    <mission>Communications Cold War</mission><!-- Gallente -->
+    <mission>Convoy Attack</mission><!-- Amarr/Caldari/Gallente/Minmatar -->
+    <mission>Crowd Control</mission><!-- Gallente -->
+    <mission>Crush The Sebiestor Station</mission><!-- Minmatar -->
+    <mission>Customs Interdiction</mission><!-- Gallente -->
+    <mission>Dark Alliance</mission><!-- Minmatar -->
+    <mission>Data Mining</mission><!-- Amarr/Caldari -->
+    <mission>Deadly Arrival</mission><!-- Amarr/Caldari/Gallente/Minmatar -->
+    <mission>Deadly Serious</mission><!-- Gallente -->
+    <mission>Delving Into The Past</mission><!-- Amarr -->
+    <mission>Denial Of Reconnaissance</mission><!-- Gallente -->
+    <mission>Destroy The Ammatar Base</mission><!-- Amarr -->
+    <mission>Destroy The Caldari Outpost</mission><!-- Caldari -->
+    <mission>Diplomatic Incident</mission><!-- Amarr -->
+    <mission>Dirty Job</mission><!-- Minmatar -->
+    <mission>Driving A Wedge</mission><!-- Gallente/Minmatar -->
+    <mission>Elopement</mission><!-- Gallente -->
+    <mission>Encounter At Station 464</mission><!-- Caldari -->
+    <mission>Enemies Abound (1 of 5)</mission>
+    <mission>Escaped Dissident</mission><!-- Minmatar -->
+    <mission>Escaped Killer</mission><!-- Minmatar -->
+    <mission>Escaped Spy</mission><!-- Minmatar -->
+    <mission>Escaped Terrorist</mission><!-- Caldari -->
+    <mission>Exploited Sensitivities</mission><!-- Caldari -->
+    <mission>Father And Son</mission><!-- Gallente -->
+    <mission>Federal Confidence</mission><!-- Caldari -->
+    <mission>Fetching Friends</mission><!-- Gallente -->
+    <mission>Finders And Keepers</mission><!-- Gallente -->
+    <mission>Foil The Military Preparations</mission><!-- Amarr/Caldari/Gallente/Minmatar -->
+    <mission>For Justice</mission><!-- Amarr -->
+    <mission>For The Birds</mission><!-- Gallente -->
+    <mission>For The Honor of Rouvenor</mission><!-- Caldari -->
+    <mission>Forces Amassing</mission><!-- Amarr -->
+    <mission>Foreign Investment</mission><!-- Gallente -->
+    <mission>Forgotten Outposts</mission><!-- Caldari -->
+    <mission>Freedom And Commerce</mission><!-- Amarr -->
+    <mission>Freedom Must Not Prevail</mission><!-- Minmatar -->
+    <mission>Friendly Spies</mission><!-- Gallente -->
+    <mission>Gate Blitz</mission><!-- Gallente -->    
+    <mission>Halt the Invasion</mission><!-- Amarr/Minmatar -->
+    <mission>Hidden Enemy Base</mission><!-- Amarr/Caldari/Gallente/Minmatar -->
+    <mission>Illegal Activity</mission><!-- Gallente -->
+    <mission>Imperial Scouts Spotted</mission><!-- Amarr -->
+    <mission>In The Midst of Deadspace (1 of 5)</mission><!-- Amarr/Caldari -->
+    <mission>In The Shadow Of War</mission><!-- Caldari -->
+    <mission>Interstellar Railroad</mission><!-- Minmatar -->
+    <mission>Lasers Softly Beaming</mission><!-- Gallente -->
+    <mission>Letters from Dalamaid</mission><!-- Minmatar -->
+    <mission>Liberate the Miners</mission><!-- Amarr/Caldari -->
+    <mission>Lights Out</mission><!-- Gallente -->
+    <mission>Location Location</mission><!-- Amarr/Caldari -->
+    <mission>Mass Drivers</mission><!-- Amarr/Gallente  -->
+    <mission>Million Little Pieces</mission><!-- Gallente  -->
+    <mission>Mining Misappropriation</mission><!-- Amarr -->
+    <mission>Minmatar Plot</mission><!-- Amarr/Gallente/Minmatar -->
+    <mission>Missing Reporters</mission><!-- Caldari/Amarr -->
+    <mission>Morale and Morality</mission><!-- Gallente -->
+    <mission>My Sweet Privateer</mission><!-- Gallente -->
+    <mission>Navy Armada</mission><!-- Amarr/Caldari/Gallente -->
+    <mission>New Slaves</mission><!-- Minmatar -->
+    <mission>No Excuse</mission><!-- Gallente -->
+    <mission>Opening Moves</mission><!-- Amarr -->
+    <mission>Oust The Claimjumpers</mission><!-- Gallente -->
+    <mission>Patriotic Measures</mission><!-- Caldari -->
+    <mission>Pick Your Poison</mission><!-- Amarr/Minmatar -->
+    <mission>Pirate Business</mission><!-- Amarr/Caldari/Gallente/Minmatar -->
+    <mission>Pirate Radio</mission><!-- Minmatar -->
+    <mission>Pot and Kettle - Minesweeper (1 of 5)</mission><!-- Amarr -->
+    <mission>Preaching to the Masses</mission><!-- Amarr -->
+    <mission>Prison Bust</mission><!-- Amarr -->
+    <mission>Probing Question</mission><!-- Amarr -->
+    <mission>Propaganda War</mission><!-- Gallente -->
+    <mission>Racetrack Ruckus</mission><!-- Gallente -->
+    <mission>Reclamation</mission><!-- Amarr/Caldari/Gallente -->
+    <mission>Recover the Containers</mission><!-- Caldari -->
+    <mission>Revenge Attack</mission><!-- Minmatar -->
+    <mission>Rogue Tech</mission><!-- Caldari -->
+    <mission>Roid Rage</mission><!-- Amarr -->
+    <mission>Save the Miners</mission><!-- Gallente -->
+    <mission>Scavengers</mission><!-- Gallente -->
+    <mission>Scout It Out</mission><!-- Amarr -->
+    <mission>Secret Pickup</mission><!-- Caldari -->
+    <mission>Shades of Grey</mission><!-- Minmatar -->
+    <mission>Smash The Gallente Stockyard</mission><!-- Gallente -->
+    <mission>Smash The Supplier</mission><!-- Amarr -->
+    <mission>Smash The Shipyard</mission><!-- Amarr -->
+    <mission>Stray Amarr Carrier</mission><!-- Amarr -->
+    <mission>Stray Caldari Carrier</mission><!-- Caldari -->
+    <mission>Surprise Surprise</mission><!-- Amarr/Caldari/Minmatar/Gallente -->
+    <mission>Terrorism</mission><!-- Caldari -->	
+    <mission>The Big Sting</mission><!-- Amarr/Caldari -->
+    <mission>The Cost of Greener Grass</mission><!-- Gallente -->
+    <mission>The Fortress</mission><!-- Amarr/Caldari/Gallente/Minmatar -->
+    <mission>The Fox Hunt</mission><!-- Minmatar -->
+    <mission>The Hard Way</mission><!-- Amarr -->
+    <mission>The Heirs Favorite Slave</mission><!-- Minmatar -->
+    <mission>The Left Hook</mission><!-- Gallente -->
+	<mission>The Slaves Must Be Returned</mission><!-- Minmatar -->
+    <mission>They Robots (1 of 5)</mission><!-- Gallente -->
+    <mission>Threat from Afar</mission><!-- Minmatar -->
+    <mission>Transport Duty</mission><!-- Caldari -->
+    <mission>Trespassers</mission><!-- Minmatar -->
+    <mission>Trimming The Fat</mission><!-- Caldari -->
+    <mission>Troop Build Up</mission><!-- Caldari -->
+    <mission>Undue Attention</mission><!-- Gallente -->
+    <mission>War Situation</mission><!-- Amarr -->
+    <mission>Warlord Strikes</mission><!-- Minmatar -->
+    <mission>What Slavery Begets</mission><!-- Amarr -->
+  </blacklist>
+</settings>
