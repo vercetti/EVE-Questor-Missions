@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mission>
+  <pockets>
+    <pocket id="0">
+      <damagetype>Thermal</damagetype>      
+      <actions>
+		<action name="WaitUntilTargeted">
+          <parameter name="Timeout" value="30" />
+        </action>
+		<action name="ClearPocket" />
+        <action name="Loot">
+		  <parameter name="Target" value="Cargo Container" />
+          <parameter name="Item" value="Kidnapped Citizens" />
+        </action>
+        <action name="Done" />
+      </actions>
+    </pocket>
+  </pockets>
+</mission>
