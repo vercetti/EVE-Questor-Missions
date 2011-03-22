@@ -14,9 +14,11 @@
         <action name="ClearPocket" />
         <action name="Kill">
           <parameter name="Target" value="Kruul's Pleasure Gardens" />
+          <parameter name="BreakOnAttackers" value="True" />
         </action>
         <action name="Loot">
           <parameter name="Item" value="The Damsel" />
+          <parameter name="Target" value="Cargo Container" />
         </action>
         <action name="ClearPocket" />
         <action name="Loot" />
