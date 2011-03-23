@@ -16,6 +16,9 @@
     <pocket id="1">
       <damagetype>Kinetic</damagetype>
       <actions>
+       <action name="WaitUntilTargeted">
+          <parameter name="Timeout" value="30" />
+        </action>
 	    <action name="ClearPocket" />
 		<action name="Kill">
           <parameter name="Target" value="Infested Laboratory" />
